@@ -5,9 +5,9 @@ const twilio = require('twilio')(
   process.env.TWILIO_ACCOUNT_SID,
   process.env.TWILIO_AUTH_TOKEN
 );
-const body = 'Hello Wold';
+const body = 'Hello Wold'; //this is the message, that will be sent
 
-const number = ['+919828143222', '+919829010342'];
+const number = ['+add_a_number'];
 
 for (var i = 0; i < number.length; i++) {
   twilio.messages
