@@ -10,8 +10,8 @@ You can read about how this code all works in the [Ultimate guide to sending bul
 Clone the repo, then change into the directory:
 
 ```bash
-git clone https://github.com/philnash/bulk-sms-alerts.git
-cd bulk-sms-alerts
+git clone https://github.com/saahil0826/twilio_sms.git
+cd twilio_sms
 ```
 
 Install the dependencies:
